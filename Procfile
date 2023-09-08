@@ -1,1 +1,1 @@
-worker: git clone "https://github.com/Nirusaki/GdriveUploaderBot" tgfs && cd tgfs && python3 -m bot
+web: git clone "https://github.com/xdwtf/TG-FileStreamBot" tgfs && cd tgfs && python -m WebStreamer
