@@ -1,7 +1,7 @@
 aiohttp
-pyrogram
+pyroblack
 python-dotenv
-tgcrypto
+TgCrypto
 flask==2.0.1
 uwsgi
 urllib3
@@ -10,9 +10,9 @@ aiofiles
 apscheduler
 PyDrive
 httplib2==0.15.0
-TgCrypto
-pyrogram
-pymongo[srv]
 AnilistPython
 asyncio
 pyromod
+motor
+pymongo
+async_pymongo
